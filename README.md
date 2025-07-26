@@ -12,3 +12,6 @@ Part 4 offers a personal reflection on how ethical principles are embedded in a 
 The Bonus Task includes a one-page policy proposal for ethical AI in healthcare. It addresses key areas such as patient consent, bias mitigation, transparency requirements, and institutional accountability mechanisms.
 
 The complete assignment integrates ethical theory with hands-on auditing tools and practical applications. It is intended for anyone interested in building responsible AI systems that align with human rights and societal values.
+THIS IS A SAMPLE ON HOW THE OUTPUT IS DISPLAYED
+<img width="925" height="482" alt="image" src="https://github.com/user-attachments/assets/cf5e3fd7-86dd-4bd0-b1bb-543feb80e5f6" />
+
